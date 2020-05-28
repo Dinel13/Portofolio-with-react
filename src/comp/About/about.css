@@ -1,0 +1,130 @@
+.clr-green {
+  background: #dd9f6b !important;
+}
+
+.about-left img {
+  border: 20px solid #000;
+}
+
+.about-left,
+.about-right {
+  padding: 0px;
+}
+.about-me {
+  padding: 3em 2em;
+  -webkit-box-shadow: -3px 7px 39px -5px rgba(0, 0, 0, 0.38);
+  -moz-box-shadow: -3px 7px 39px -5px rgba(0, 0, 0, 0.38);
+  box-shadow: -3px 7px 39px -5px rgba(0, 0, 0, 0.38);
+}
+.about-me h2 {
+  font-size: 34px;
+  color: #000;
+  font-weight: 600;
+  letter-spacing: 3px;
+  padding-bottom: 9px;
+}
+.about-me h4 {
+  font-size: 21px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  color: #000;
+}
+.desc p {
+  font-size: 15px;
+  color: #000;
+  line-height: 31px;
+  text-align: left;
+}
+.desc {
+  padding: 2em 3em 0em;
+}
+.button-social ul{
+  margin-right: 0px !important;
+}
+.button-social ul li {
+  display: inline-block;
+  text-align: center;
+  border: 1px solid #000;
+  width: 40px;
+  height: 40px;
+  background: #000;
+  line-height: 41px;
+  border-radius: 50px;
+  transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  -ms-transition: 0.5s all;
+}
+.button-social li {
+  margin-right: 4px;
+}
+.button-social ul li a span {
+  color: #fff;
+}
+.button-social ul li:hover {
+  background: #5bccee;
+}
+
+.my-data{
+  padding-top: 3em;
+}
+.my-datas h3 {
+  font-size: 40px;
+  color: #000;
+  font-weight: 600;
+}
+
+table, td{
+  margin: 20px auto;
+  padding: 15px;
+}
+tr{
+  text-align: left;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+/*myservice */
+
+.about-gap {
+  background: #5bccee;
+  padding: 2em 3em;
+  border-radius: 8px;
+}
+.about-gap span.fa {
+  color: #fff;
+  font-size: 41px;
+}
+/*.about-ser-grid:nth-child(3),
+.about-ser-grid:nth-child(4) {
+  margin-top: 22px;
+} */
+.about-gap h3 {
+  font-size: 22px;
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin: 21px 0px 15px;
+}
+.about-gap p {
+  font-size: 15px;
+  color: #000;
+  line-height: 26px;
+}
+
+@media screen and (max-width :767) {
+  .web{
+    margin-bottom: 100px !important;
+  }
+}
+@media(max-width :467) {
+  .button-social {
+    padding: 1px !important;
+  }
+  ul{
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+}
+/*--//about--*/

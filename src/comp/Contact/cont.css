@@ -1,0 +1,99 @@
+
+.map-grid iframe {
+    width: 100%;
+    height: 297px;
+    border: 0;
+  }
+  .footer_grid_left h5 {
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: #5bccee;
+    margin: 16px 0px 6px;
+  }
+  .footer_grid_left p span {
+    display: block;
+  }
+  
+  .footer_grid_left p,
+  .footer_grid_left p a {
+    color: #000;
+    line-height: 26px;
+    font-size: 14px;
+    letter-spacing: 2px;
+  }
+  .footer_grid_left p a :hover {
+    color: #fff;
+  }
+  .contact-icons {
+    text-align: right;
+  }
+  .contact input[type="text"],
+  .contact input[type="email"],
+  .contact textarea {
+    color: #000;
+    border: none;
+    padding: 1em;
+    border: 1px solid #000;
+    font-size: 15px;
+    width: 100%;
+    background: #fff;
+    outline: none;
+    letter-spacing: 1px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+  }
+  .styled-input {
+    margin-bottom: 2em ;
+  }
+  .contact input[type="text"]:hover,
+  .contact input[type="email"]:hover,
+  .contact textarea:hover {
+    border: 1px solid #5bccee;
+  }
+  .contact-us ::-webkit-input-placeholder {
+    color: #000;
+  }
+  .contact-us :-moz-placeholder {
+    /* Firefox 18- */
+    color: #000;
+  }
+  .contact-us::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #000;
+  }
+  .contact-us :-ms-input-placeholder {
+    color: #000;
+  }
+  .contact textarea {
+    min-height: 13em;
+    resize: none;
+  }
+  .contact input[type="submit"] {
+    width: 100%;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    border: solid 2px #fff;
+    padding: 0.7em 3em;
+    outline: 0;
+    margin: 2em 0em 0em;
+    background: #000;
+    display: inline-block;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+  }
+  .contact input[type="submit"]:hover {
+    color: #5bccee;
+  }
+  
+  .contact-us {
+    margin-bottom: 4em;
+  }

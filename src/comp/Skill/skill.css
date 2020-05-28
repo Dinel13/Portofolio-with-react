@@ -1,0 +1,137 @@
+
+.skill{
+  background: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+}
+
+.skill h1{
+  color: white;
+}
+.green {
+    background: #dd9f6b !important;
+    
+  }
+
+  .back-shadow {
+    border-radius: 8px;
+    -webkit-box-shadow: -3px 7px 39px -5px rgba(0, 0, 0, 0);
+    -moz-box-shadow: -3px 7px 39px -5px rgba(0, 0, 0, 0);
+    box-shadow: -3px 7px 39px -5px rgb(0, 0, 0);
+  }
+
+  .white-shadow  p{
+   text-align: left !important;
+  }
+
+  .my-ser-left {
+    background: #fff;
+    padding: 3em 1em;
+    border-radius: 8px;
+  }
+  .ser-icone {
+    background: #5bccee;
+    text-align: center;
+    padding: 2em;
+    border-radius: 8px;
+  }
+  .stats-grid:nth-child(2){
+    margin: 35px 0px 0px;
+  }
+  .bar-grids {
+    margin: 45px 10px 0px;
+  }
+  .service-num-left h6 {
+    padding: 0px;
+    font-size: 25px;
+    text-align: center;
+    color: #fff;
+    background: #5bccee;
+    border-left: 4px solid #dd9f6b;
+    width: 56px;
+    height: 56px;
+    margin: 0 auto;
+    line-height: 57px;
+    border-radius: 50px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+  }
+  .white-shadow:hover .service-num-left h6 {
+    background: #000;
+  }
+  .service-info-left h4 {
+    font-size: 25px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: #000;
+    font-weight: 500;
+    text-align: left;
+    line-height: 34px;
+    padding-bottom: 6px;
+  }
+  .white-shadow:nth-child(2),
+  .white-shadow:nth-child(3),
+  .white-shadow:nth-child(4) {
+    padding-top: 32px;
+  }
+  .white-shadow p {
+    font-size: 15px;
+    color: #000;
+    line-height: 28px;
+  }
+  span.font {
+    font-size: 39px;
+    color: #fff;
+    padding-bottom: 14px;
+  }
+  .counter {
+    font-size: 25px;
+    margin: 0;
+    color: #000;
+    letter-spacing: 5px;
+    padding-bottom: 7px;
+  }
+  .stats-grid h4 {
+    font-size: 17px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    margin-top: 5px;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  
+  .progress {
+    height: 5px !important;
+    margin-bottom: 0em;
+    background-color: rgba(255, 255, 255, 0.14);
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -o-border-radius: 0 !important;
+    -ms-border-radius: 0 !important;
+    border-radius: 3px;
+  }
+  .progress-bar {
+    background-color: #47cf73;
+  }
+  .bar-grids h6 {
+    font-size: 1.4em;
+    color: #ffffff;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: left;
+  }
+  .bar-grids h6 span {
+    float: right;
+    font-size: 0.9em;
+  }
+  .mid-bar {
+    margin: 1.3em 0;}
+   

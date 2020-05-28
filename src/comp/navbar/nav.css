@@ -1,0 +1,69 @@
+.overlay {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background:rgba(0, 0, 0, 0.815);
+	align-items: center;
+	align-content: center;
+}
+
+
+.overlay nav {
+	text-align: center;
+	position: relative;
+	top: 40%;
+	height: 60%;
+	font-size: 54px;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	margin: 0 auto;
+}
+
+.overlay ul {
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	display: inline-block;
+	height: 100%;
+	position: relative;
+}
+
+.overlay ul li {
+	display: block;
+	height: 20%;
+	height: calc(80% / 5);
+	min-height: 54px;
+}
+
+.overlay ul li a {
+    font-size: 19px;
+	font-weight: 300;
+	display: block;
+	color: #fff !important;
+	-webkit-transition: color 0.2s;
+	transition: color 0.2s;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.overlay ul li a:hover,
+.overlay ul li a:focus {
+    color:#0ba5d4 !important;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 599px) {
+	.overlay nav {
+		height: 65%;
+		font-size: 30px;
+	}
+	.overlay ul {
+		height: 55%;
+	}
+	.headdir {
+		padding: 3em;
+	  }
+}
+
