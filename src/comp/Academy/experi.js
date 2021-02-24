@@ -4,6 +4,20 @@ import Project from "./project"
 export default function experi() {
   const data = [
     {
+      thn: 2021,
+      nama: "Website GenBI Sulsel",
+      des: "Web app yang dibagun dengan MERN stack dan GraphQL",
+      situs: "genbisulsel.cyou",
+      github :"github.com/Dinel13/genbii",
+      wrna : "clr-green"
+    },{
+      thn: 2020,
+      nama: "GenBI App",
+      des: "Aplikasi cross platform dengan mengunakan react-native",
+      situs: "/",
+      github :"github.com/Dinel13/GenBI-App",
+      wrna : "blue"
+    },{
       thn: 2020,
       nama: "TodoList App",
       des: "Aplikasi android untuk mencatat rencana atau kegiatan",

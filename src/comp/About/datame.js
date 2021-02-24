@@ -15,12 +15,6 @@ export default function datame() {
           </tr>
           <tr>
             <td>
-              <b>T.T.L </b>
-            </td>
-            <td>: 23-12-1998</td>
-          </tr>
-          <tr>
-            <td>
               <b>Phone </b>
             </td>
             <td>: +6282346462345</td>
@@ -30,6 +24,14 @@ export default function datame() {
               <b>Hobby </b>
             </td>
             <td>: Riding and reading</td>
+          </tr>
+          <tr>
+            <td>
+              <b>Email </b>
+            </td>
+            <td>
+              <a href="dinel13.github.io">: salah.huddin@gmail.com</a>
+            </td>
           </tr>
           <tr>
             <td>

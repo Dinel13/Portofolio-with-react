@@ -26,7 +26,7 @@ class slideshow extends React.Component {
             ) : (
               <>
                 <h1 style={{fontWeight:"bold"}}>I am Salahuddin</h1>
-                <h4>web developper</h4>
+                <h4>Full-stack web developper</h4>
               </>
             )}
         </div>

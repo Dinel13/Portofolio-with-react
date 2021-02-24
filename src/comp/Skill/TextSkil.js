@@ -23,7 +23,7 @@ export default function TextSkil() {
           <h4>Graphic Design</h4>
           <p>
             Graphic Desain dibutuhkan untuk membangun aset yang aku gunakan
-            dalam website. Aku lebih suka mengunakan Inkscape
+            dalam website. Aku lebih suka mengunakan Figma
           </p>
         </div>
       </div>
@@ -49,7 +49,7 @@ export default function TextSkil() {
           <h4>System Operasi</h4>
           <p>
             Untuk menunjang produktifitasku aku mengunakan sistem Operasi
-            Elementary OS, salah satu distro GNU/Linux
+            Elementary OS atau Pop OS, salah satu distro GNU/Linux
           </p>
         </div>
         <div className="clearfix"> </div>
