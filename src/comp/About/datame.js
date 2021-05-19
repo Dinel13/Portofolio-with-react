@@ -30,7 +30,7 @@ export default function datame() {
               <b>Email </b>
             </td>
             <td>
-              <a href="dinel13.github.io">: salah.huddin@gmail.com</a>
+              <a href="dinel13.github.io">: salah.huddiin@gmail.com</a>
             </td>
           </tr>
           <tr>
