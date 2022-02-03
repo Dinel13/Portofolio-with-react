@@ -23,7 +23,7 @@ const linkSosmed = () =>
         </a>
       </li>
       <li >
-        <a href="https://www.linkedin.com/in/salahuddin-din-9a7298186">
+        <a href="https://www.linkedin.com/in/salahuddin-hafid">
           <span className="fa fa-linkedin"></span>
         </a>
       </li>

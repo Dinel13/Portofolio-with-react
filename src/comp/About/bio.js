@@ -11,13 +11,13 @@ export default function bio() {
       <div className="col-md-7 about-right">
         <div className="about-me">
           <h2>Salahuddin </h2>
-          <h4>Web Developer & Freelancer</h4>
+          <h4>Web Developer</h4>
         </div>
         <div className="desc">
           <p>
-            Seorang mahasiswa Teknik Informatika, Universitas Hasanuddin,
-            Yang berfokus pada bidang pengembangan website secara keseluruhan atau 
-            fullstack. Seseorang yang menyukai dan Penguna GNU/Linux
+            Seorang pembelajar dan menyukai hal-hal baru.
+            Memanfaatkan teknologi untuk memberikan dampak terutam melalui pengembangan website secara keseluruhan atau 
+            fullstack. 
           </p>
           <div className="button-social">
             <LinkSosmed></LinkSosmed>

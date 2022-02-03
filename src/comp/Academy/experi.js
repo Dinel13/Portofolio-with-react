@@ -4,53 +4,34 @@ import Project from "./project"
 export default function experi() {
   const data = [
     {
+      thn: 2022,
+      nama: "Skripsi Tugas akhir",
+      des: "Menganalis performa microservice yang menggunakan gRPC dan REST API",
+      situs: "https://dinel.netlify.app/",
+      github :"https://github.com/Dinel13/thesis-ac",
+      wrna : "clr-green"
+    },
+    {
       thn: 2021,
-      nama: "Website GenBI Sulsel",
-      des: "Web app yang dibagun dengan MERN stack dan GraphQL",
-      situs: "genbisulsel.cyou",
-      github :"github.com/Dinel13/genbii",
-      wrna : "clr-green"
-    },{
-      thn: 2020,
-      nama: "GenBI App",
-      des: "Aplikasi cross platform dengan mengunakan react-native",
-      situs: "/",
-      github :"github.com/Dinel13/GenBI-App",
-      wrna : "blue"
-    },{
-      thn: 2020,
-      nama: "TodoList App",
-      des: "Aplikasi android untuk mencatat rencana atau kegiatan",
-      situs: "app-debug.apk",
-      github :"github.com/Dinel13/TodoList-App",
-      wrna : "clr-green"
-    },{
-      thn: 2020,
-      nama: "Corona Info",
-      des: "Website untuk pantau penyebaran covid-19 di Indonesia",
-      situs: "crna.netlify.app",
-      github :"github.com/Dinel13/corona_pp",
-      wrna : "blue"
-      
-    }, {
-      thn: 2020,
-      nama: "Toko Udin",
-      des: "Website Ecommerance untuk belanja online smartphone",
-      situs: "tokokudin.netlify.app",
-      github :"github.com/Dinel13/ecommerance_react",
-      wrna : "clr-green"
-    }, {
-      thn: 2020,
-      nama: "Bacot",
-      des: "Website Chatting dengan mengunakan websoket.io",
-      situs: "diskusi.netlify.app",
-      github :"github.com/Dinel13/chat",
+      nama: "Lanjukang",
+      des: "Web app untuk menawarkan layanan jasa terkait pariwisata",
+      situs: "http://lanjukang.com",
+      github :"https://github.com/Dinel13/lanjukang-be",
       wrna : "blue"
     },
+    {
+      thn: 2021,
+      nama: "Suara Unhas",
+      des: "Web app khusus mahasiswa unhas untuk berbagi tulisan",
+      situs: "http://47.250.52.172:89/",
+      github :"https://github.com/Dinel13/suara-unhas-fe",
+      wrna : "clr-green"
+    }
   ];
 
   return (
     <div className="edu">
+      <br/>
       <div className="col-md-5 title">
         <h1>Project</h1>
       </div>
